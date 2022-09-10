@@ -1,11 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
-html {
-    height: 100%;
-    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-    overflow: hidden;
-  }
-  
+
   #stars {
       content:"e";
     background: transparent;
