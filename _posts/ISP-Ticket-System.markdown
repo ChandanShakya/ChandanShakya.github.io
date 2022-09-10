@@ -8,5 +8,4 @@ project-date: June 2022
 client: ISP-Ticket-System
 category: Web Development
 description: Ticket Management for Internet Service Providers
-link: https://github.com/ZXY-CC-3ag13/ISP-Ticket-System
 ---

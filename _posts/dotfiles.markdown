@@ -8,5 +8,4 @@ project-date: September 2022
 client: dotfiles
 category: System Configuration
 description: My simple dotfile
-link: https://github.com/ZXY-CC-3ag13/dotfiles
 ---

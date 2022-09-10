@@ -8,5 +8,4 @@ project-date: May 2022
 client: GitPass
 category: Web Development
 description: Simple Online Self-Deployable Password Manager
-link: https://github.com/ZXY-CC-3ag13/GitPass
 ---
