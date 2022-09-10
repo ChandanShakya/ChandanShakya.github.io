@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2022-02-19
-img: cabin.png
-alt: Gitpass
+img: GitPass.png
+alt: GitPass
 project-date: May 2022
 client: Online Password Manager
 category: Web Development
