@@ -5,7 +5,7 @@ date: 2022-09-01
 img: dotfiles.png
 alt: dotfiles
 project-date: September 2022
-use-case: Private
+client: Private
 title: dotfiles
 category: System Configuration
 description: My simple dotfile

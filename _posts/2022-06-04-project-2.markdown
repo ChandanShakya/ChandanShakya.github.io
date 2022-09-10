@@ -5,7 +5,7 @@ date: 2022-06-04
 img: ISP-Ticket-System.png
 alt: ISP-Ticket-System
 project-date: June 2022
-use-case: Public
+client: Public
 title: ISP-Ticket-System
 category: Web Development
 description: Ticket Management for Internet Service Providers
