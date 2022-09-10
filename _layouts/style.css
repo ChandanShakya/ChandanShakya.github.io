@@ -1,2 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+header,
+hr.star-light:after,
+section.success {
+    background: #2c3e50;
+}
