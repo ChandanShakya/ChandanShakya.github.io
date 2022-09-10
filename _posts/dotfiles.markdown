@@ -5,7 +5,8 @@ date: 2022-09-01
 img: dotfiles.png
 alt: dotfiles
 project-date: September 2022
-client: Dotfiles
+client: dotfiles
 category: System Configuration
 description: My simple dotfile
+link: https://github.com/ZXY-CC-3ag13/dotfiles
 ---
