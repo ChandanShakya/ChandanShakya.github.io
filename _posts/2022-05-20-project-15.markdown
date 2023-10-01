@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 15
+date: 2022-05-20
+img: GoldMandu.png
+alt: GoldMandu Logo
+project-date: May 2022
+client: Private
+title: GoldMandu (Gold and Silver Prices)
+category: Scraping, Web Development, Cron, Python
+description: View Gold and Silver Price in Kathmandu
+link: https://github.com/ChandanShakya/GoldMandu
+---

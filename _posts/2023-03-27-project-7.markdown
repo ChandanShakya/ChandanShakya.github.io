@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2023-03-27
+img: CMS.png
+alt: Contact Management System Logo
+project-date: March 2023
+client: Public
+title: Contact Management System
+category: C, CLI, CRUD
+description: The contact management system is a simple program that allows you to manage your contacts easily. You can add new contacts, display all contacts, update existing contacts, delete contacts, save contacts to a file, and load contacts from a file.<br><a href="https://replit.com/@ZXY-CC-3ag13/CMS">Try on Replit</a>
+link: https://github.com/ChandanShakya/CMS
+---

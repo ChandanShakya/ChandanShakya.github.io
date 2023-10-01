@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+date: 2023-01-15
+img: Kabir-Profile-View-Increaser.png
+alt: Kabir Profile View Increaser Logo
+project-date: January 2023
+client: Public
+title: Kabir Profile Views
+category: Bash, Shell, CLI, Curl, Script
+description: This is a shell script that increases view count using curl implemented for <a href="https://github.com/kabirdeula">Kabir</a>
+link: https://github.com/ChandanShakya/KabirProfileViews
+---

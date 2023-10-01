@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2022-03-19
+img: D2BC2.png
+alt: Discord Dark Black Clean Compact Logo
+project-date: March 2022
+client: Public
+title: Discord Dark Black Clean Compact D2-B-C2
+category: Stylesheet, Web Design, Stylus, Custom Stylesheet
+description: This user-style improves discord by removing unnecessary nitro prompts and enforces dark-mode.<br><a href="https://userstyles.world/style/3722/dark-discord-black-clean-compact-d2-b-c2">User Styles World Link</a>
+link: https://github.com/ChandanShakya/Dark-Discord-Black-Clean-Compact-D2-B-C2
+---

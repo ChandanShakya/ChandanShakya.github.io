@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 12
+date: 2023-09-17
+img: Movie-Booking-System-with-Seat-Selection.png
+alt: Movie Booking System with Seat Selection Logo
+project-date: September 2023
+client: Public
+title: Movie Booking System with Seat Selection
+category: C, CRUD, CLI
+description: A Movie hall staff system created in C
+link: https://github.com/ChandanShakya/Movie-Booking-System-with-Seat-Selection
+---

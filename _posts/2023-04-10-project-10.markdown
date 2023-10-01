@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 10
+date: 2023-04-10
+img: ChowBot.png
+alt: Chow Bot Logo
+project-date: April 2023
+client: Public
+title: Chow Bot
+category: Python, Telegram, API, Reminder
+description: CollegeBot is a Python script that sends reminders for college lab classes via Telegram. It uses the python-telegram-bot library to interact with the Telegram Bot API.
+link: https://github.com/ChandanShakya/ChowBot
+---

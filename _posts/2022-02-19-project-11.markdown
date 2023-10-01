@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 11
+date: 2022-02-19
+img: GitPass.png
+alt: GitPass
+project-date: May 2022
+client: Public
+title: GitPass
+category: Web Development
+description: Simple Online Self-Deployable Password Manager with Version Control using AES encryption
+link: https://github.com/ChandanShakya/GitPass
+---

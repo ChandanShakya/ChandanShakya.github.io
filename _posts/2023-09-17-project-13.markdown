@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 13
+date: 2023-09-01
+img: Kurakahani-Podcast.png
+alt: Kurakahani Logo
+project-date: September 2023
+client: Public
+title: Kurakahani Podcast Extraction, RSS Feed Generation [ YouTube to Podcast RSS ], Website Hosting and Archiving
+category: Jekyll, Podcast, RSS, Archiving, Github Pages, Python
+description: This project aims to automate the extraction of audio content from the "Kurakahani" podcast videos on YouTube, convert them to audio files, generate an RSS feed, create a website, and automatically archive all the generated content on the Internet Archive's Wayback Machine. Users can easily access and explore the podcast's episodes at <a href="https://kurakahani.github.io">kurakahani.github.io</a>, RSS feed, and archived website at <a href="https://web.archive.org/web/sitemap/kurakahani.github.io/">The Wayback Machine</a>.
+link: https://github.com/Kurakahani/kurakahani.github.io
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2022-09-12
+img: cameronsworld-under-construction-extract.png
+alt: Cameron's World Under Construction Extract
+project-date: September 2022
+client: Public
+title: Cameron's World Under Construction Extract
+category: Web Development, Extraction
+description: Project Related to using inspect tool to copy a webpage's section.<br>Extract Under construction section of <a href="https://www.cameronsworld.net">Cameron's World</a>
+link: https://github.com/ChandanShakya/cameronsworld-under-construction-extract
+---

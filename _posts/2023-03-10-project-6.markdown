@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2023-03-10
+img: ToDo.png
+alt: To Do App Laravel Logo
+project-date: March 2023
+client: Public
+title: To Do Laravel
+category: Laravel, Web Development, Livewire
+description: Multi User To-Do Application made with Laravel Livewire
+link: https://github.com/ChandanShakya/To-Do-App-Laravel
+---

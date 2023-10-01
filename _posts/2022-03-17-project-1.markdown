@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2022-03-17
+img: phpMyAdmin-MySQL-Docker.png
+alt: My Logo for PHP, MySQL Docker
+project-date: March 2022
+client: Public
+title: Docker For LAMP Development - AMPP
+category: Web Development
+description: AMPP - Base docker-compose setup for phpMyAdmin and MySQL (Alternative to XAMPP)
+link: https://github.com/ChandanShakya/phpMyAdmin-MySQL-Docker
+---

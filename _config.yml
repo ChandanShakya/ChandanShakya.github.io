@@ -1,11 +1,11 @@
 # Site settings
-title: ZXY-CC-3ag13
+title: Chandan Shakya
 email: ZXY-CC-3ag13@pm.me
-url: https://github.com/ZXY-CC-3ag13/ZXY-CC-3ag13.github.io
+url: https://github.com/ChandanShakya/ChandanShakya.github.io
 description: "Personal Portfolio Site"
-keywords: "ZXY-CC-3ag13"
+keywords: "Chandan Shakya"
 skills: "Web Developer - Researcher - Social Engineer"
-meta_author: ZXY-CC-3ag13
+meta_author: ChandanShakya
 
 # Google webmaster tools
 google_verify: google6f3dfdbd53a292af.html
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: zxycc3ag13
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: ZXY-CC-3ag13
+  copyright: Chandan Shakya
   location: Location
   social: Around the Web
   credits: Credits
@@ -44,15 +44,18 @@ social:
   - title: stack-overflow
     url: https://stackoverflow.com/users/18991653/zxy-cc-3ag13
   - title: github
-    url: http://github.com/ZXY-CC-3ag13
+    url: https://github.com/ChandanShakya
+  - title: linkedin
+    url: https://linkedin.com/in/ChandanShakya
+
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Kathmandu
   - line: Nepal
-  - line: Earth
 
 # Credits content
-credits: 'ZXY-CC-3ag13, themselves'
+credits: 'Chandan Shakya'
 
 # Build settings
 markdown: kramdown
