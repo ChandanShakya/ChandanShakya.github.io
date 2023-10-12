@@ -2,7 +2,7 @@
 layout: default
 modal-id: 13
 date: 2023-09-01
-img: Kurakahani-Podcast.png
+img: Kurakahani-Podcast.webp
 alt: Kurakahani Logo
 project-date: September 2023
 client: Public

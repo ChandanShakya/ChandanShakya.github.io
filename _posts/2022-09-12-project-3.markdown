@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2022-09-12
-img: cameronsworld-under-construction-extract.png
+img: cameronsworld-under-construction-extract.webp
 alt: Cameron's World Under Construction Extract
 project-date: September 2022
 client: Public

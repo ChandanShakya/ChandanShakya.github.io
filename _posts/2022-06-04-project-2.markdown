@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-06-04
-img: ISP-Ticket-System.png
+img: ISP-Ticket-System.webp
 alt: ISP-Ticket-System
 project-date: June 2022
 client: Public

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-03-17
-img: phpMyAdmin-MySQL-Docker.png
+img: phpMyAdmin-MySQL-Docker.webp
 alt: My Logo for PHP, MySQL Docker
 project-date: March 2022
 client: Public

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2023-04-10
-img: ChowBot.png
+img: ChowBot.webp
 alt: Chow Bot Logo
 project-date: April 2023
 client: Public

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 14
 date: 2022-09-01
-img: dotfiles.png
+img: dotfiles.webp
 alt: dotfiles
 project-date: September 2022
 client: Private

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2023-03-27
-img: CMS.png
+img: CMS.webp
 alt: Contact Management System Logo
 project-date: March 2023
 client: Public

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2023-09-17
-img: Movie-Booking-System-with-Seat-Selection.png
+img: Movie-Booking-System-with-Seat-Selection.webp
 alt: Movie Booking System with Seat Selection Logo
 project-date: September 2023
 client: Public

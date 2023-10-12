@@ -2,7 +2,7 @@
 layout: default
 modal-id: 15
 date: 2022-05-20
-img: GoldMandu.png
+img: GoldMandu.webp
 alt: GoldMandu Logo
 project-date: May 2022
 client: Private

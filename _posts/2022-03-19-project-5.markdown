@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2022-03-19
-img: D2BC2.png
+img: D2BC2.webp
 alt: Discord Dark Black Clean Compact Logo
 project-date: March 2022
 client: Public
