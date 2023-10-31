@@ -41,12 +41,19 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/ZXY_CC_3ag13
+    aria: Twitter Account Link
   - title: stack-overflow
     url: https://stackoverflow.com/users/18991653/zxy-cc-3ag13
+    aria: StackOverflow Account Link
   - title: github
     url: https://github.com/ChandanShakya
+    aria: Github Account Link
   - title: linkedin
     url: https://linkedin.com/in/ChandanShakya
+    aria: Linkedin Account Link
+  - title: facebook
+    url: https://www.facebook.com/Chandan.UwU
+    aria: Facebook Account Link
 
 
 # Postal address (add as many lines as necessary)
