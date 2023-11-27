@@ -8,6 +8,6 @@ project-date: May 2022
 client: Private
 title: GoldMandu (Gold and Silver Prices)
 category: Scraping, Web Development, Cron, Python
-description: View Gold and Silver Price in Kathmandu
+description: View Gold and Silver Price in Kathmandu.<br><a href="https://chandanshakya.com.np/GoldMandu/">Visit Website</a>
 link: https://github.com/ChandanShakya/GoldMandu
 ---
