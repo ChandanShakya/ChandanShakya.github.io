@@ -1,3 +1,4 @@
+{% include css/bootstrap.min.css %}
 {% include css/main.css %}
 header,
 hr.star-light:after,
