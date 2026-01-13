@@ -74,4 +74,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: /:categories/:year/:month/:day/:title/
